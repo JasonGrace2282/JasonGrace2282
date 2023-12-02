@@ -1,16 +1,18 @@
-### Hi there 👋
+## Welcome Random Person
 
-<!--
-**JasonGrace2282/JasonGrace2282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Favorite Languages
+* Python
+* C
 
-Here are some ideas to get you started:
+### System Favorites
+* Distribution: Archlinux 😎
+* Shell: zsh
+* Desktop: KDE Plasma
+* File Explorer: Dolphin (Open to suggestions)
+* Editor: Neovim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+* Physics
+* Coding
+* Guitar
+* Running
