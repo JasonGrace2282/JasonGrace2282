@@ -1,4 +1,5 @@
-## Welcome Random Person
+## Welcome Random Person!
+I'm just your average guy ;)
 
 ### Favorite Languages
 * Python
