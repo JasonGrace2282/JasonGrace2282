@@ -7,9 +7,11 @@ I'm just your average guy ;)
 
 ### System Favorites
 * Distribution: Archlinux 😎
-* Shell: zsh
-* Desktop: KDE Plasma
-* File Explorer: Dolphin (Open to suggestions)
+* Shell: zsh (best shell)
+* Window Manager: Awesome
+* Desktop Manager: N/A
+* Login Manager: sddm
+* File Explorer: Thunar
 * Editor: Neovim
 
 ### Interests
