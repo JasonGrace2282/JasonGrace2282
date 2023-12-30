@@ -1,5 +1,7 @@
 ## Welcome Random Person!
 I'm just your average guy ;)
+When I'm not being average, I'm
+a physics enthusiast, Manim Community Core Dev, a guitarist and an athelete.
 
 ### Favorite Languages
 * Python
@@ -9,13 +11,7 @@ I'm just your average guy ;)
 * Distribution: Archlinux 😎
 * Shell: zsh (best shell)
 * Window Manager: Awesome
-* Desktop Manager: N/A
-* Login Manager: sddm
+* Login Manager: Ly
 * File Explorer: Thunar
 * Editor: Neovim
 
-### Interests
-* Physics
-* Coding
-* Guitar
-* Running
