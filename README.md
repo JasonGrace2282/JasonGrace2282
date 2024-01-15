@@ -11,8 +11,8 @@ a physics enthusiast, Manim Community Core Dev, a guitarist and an athelete.
 ### System Favorites
 * Distribution: Archlinux 😎
 * Shell: zsh (best shell)
-* Window Manager: Awesome
+* Window Manager: i3
 * Login Manager: Ly
-* File Explorer: Thunar
+* File Explorer: PCmanFM
 * Editor: Neovim
 
