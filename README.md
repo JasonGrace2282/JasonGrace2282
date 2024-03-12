@@ -1,4 +1,4 @@
-## Welcome Random Person!
+# Welcome Random Person!
 I'm just your average guy ;)
 # 💫 About Me:
 When I'm not being average, I'm
