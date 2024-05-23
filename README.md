@@ -1,7 +1,7 @@
 # Welcome Random Person!
 I'm just your average guy ;)
 
-![Logo](Logo.gif)
+![Logo](./Logo.gif)
 
 # About Me:
 When I'm not being average, I'm
