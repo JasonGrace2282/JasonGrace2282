@@ -1,8 +1,7 @@
 # Welcome Random Person!
 I'm just your average guy ;)
 
-<img src='./Logo.gif' width='100%' >
-![Logo](https://github.com/JasonGrace2282/JasonGrace2282/blob/main/Logo.gif)
+<img src='./Logo.gif' width='400' >
 
 # About Me:
 When I'm not being average, I'm
