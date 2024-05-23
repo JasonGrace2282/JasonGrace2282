@@ -8,6 +8,10 @@ a physics enthusiast, Manim Community Core Dev, a guitarist and an athlete.
 * Python (3 years)
 * LaTeX (1.5 years)
 
+### Currently Learning
+* glsl/shaders (3 months)
+* Rust (1 month)
+
 ### System Favorites
 * Distribution: Archlinux 😎
 * Shell: zsh
