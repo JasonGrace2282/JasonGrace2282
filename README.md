@@ -1,5 +1,8 @@
 # Welcome Random Person!
 I'm just your average guy ;)
+
+![Logo](Logo.gif)
+
 # About Me:
 When I'm not being average, I'm
 a physics enthusiast, Manim Community Core Dev, a guitarist and an athlete.
