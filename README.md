@@ -1,7 +1,7 @@
 # Welcome Random Person!
 I'm just your average guy ;)
 
-<img src='./logo.gif' width='800' >
+|<img src='./logo.gif' width='400' >|
 
 # About Me:
 When I'm not being average, I'm
