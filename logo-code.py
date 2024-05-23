@@ -17,5 +17,5 @@ class Logo(Scene):
         self.play(Uncreate(group))
 
 
-with tempconfig({"preview": True, "format": "gif"}):
+with tempconfig({"preview": True, "format": "gif", "transparent": True}):
     Logo().render()
