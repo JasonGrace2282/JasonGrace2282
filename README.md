@@ -28,9 +28,11 @@ a physics enthusiast, Manim Community Core Dev, a guitarist and an athlete.
 ![](https://github-contributor-stats.vercel.app/api?username=JasonGrace2282&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![JasonGrace2282's Stats](https://github-readme-stats.vercel.app/api?username=JasonGrace2282&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JasonGrace2282&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonGrace2282&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonGrace2282&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonGrace2282&theme=dark&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonGrace2282&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JasonGrace2282&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
