@@ -41,6 +41,7 @@ a physics enthusiast, Manim Community Core Dev, a Sysadmin at TJ CSL, a guitaris
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JasonGrace2282&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 </details>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=JasonGrace2282&icon=0&color=0)](https://visitcount.itsvg.in)
 
