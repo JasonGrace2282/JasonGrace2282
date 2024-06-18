@@ -6,8 +6,8 @@ I'm just your average guy ;)
 # About Me:
 When I'm not being average, I'm:
 - A physics enthusiast
-- Manim Community Core Developer
-- Sysadmin at TJ CSL
+- @ManimCommunity Core Developer
+- @tjcsl Sysadmin
 - A guitarist
 - An athlete
 
