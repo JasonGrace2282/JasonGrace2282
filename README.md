@@ -4,16 +4,20 @@ I'm just your average guy ;)
 <img src='./logo.gif' width='600' >
 
 # About Me:
-When I'm not being average, I'm
-a physics enthusiast, Manim Community Core Dev, a Sysadmin at TJ CSL, a guitarist and an athlete.
+When I'm not being average, I'm:
+- A physics enthusiast
+- Manim Community Core Developer
+- Sysadmin at TJ CSL
+- A guitarist
+- An athlete
 
 ### Favorite Languages
 * Python (3 years)
 * LaTeX (1.5 years)
 
 ### Currently Learning
-* glsl/shaders (3 months)
-* Rust (1 month)
+* Rust
+* GLSL
 
 ### System Favorites
 * Distribution: Archlinux 😎
