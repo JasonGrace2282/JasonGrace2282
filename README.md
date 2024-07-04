@@ -12,8 +12,8 @@ When I'm not being average, I'm:
 - An athlete
 
 ## Current Projects
-[Rust Ray Tracer](https://github.com/JasonGrace2282/raytracing)
-![Final image from Ray Tracer](https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png)
+### [Rust Ray Tracer](https://github.com/JasonGrace2282/raytracing)
+<img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=1000>
 
 ### Favorite Languages
 * Python (3 years)
