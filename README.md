@@ -11,6 +11,10 @@ When I'm not being average, I'm:
 - A guitarist
 - An athlete
 
+## Current Projects
+[Rust Ray Tracer](https://github.com/JasonGrace2282/raytracing)
+![Final image from Ray Tracer](https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png)
+
 ### Favorite Languages
 * Python (3 years)
 * LaTeX (1.5 years)
