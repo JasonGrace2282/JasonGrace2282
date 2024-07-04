@@ -13,7 +13,7 @@ When I'm not being average, I'm:
 
 ## Current Projects
 ### [Rust Ray Tracer](https://github.com/JasonGrace2282/raytracing)
-<img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=1000>
+<img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=700>
 
 ### Favorite Languages
 * Python (3 years)
