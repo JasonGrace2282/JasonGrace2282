@@ -21,7 +21,7 @@ When I'm not being average, I'm:
 
 ### Currently Learning
 * Rust
-* GLSL
+* Vulkan
 
 ### System Favorites
 * Distribution: Archlinux 😎
