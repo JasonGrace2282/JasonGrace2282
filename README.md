@@ -16,7 +16,7 @@ When I'm not being average, I'm:
 <img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=700>
 
 ### Favorite Languages
-* Python (3 years)
+* Python (4 years)
 * LaTeX (1.5 years)
 
 ### Currently Learning
