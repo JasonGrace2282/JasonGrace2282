@@ -30,7 +30,7 @@ When I'm not being average, I'm:
 * Editor: Neovim
 
 <details>
-<summary>## Stats</summary>
+## <summary>Stats</summary>
 <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@JasonGrace2282/1620f0ab-45c7-45b3-88a9-44e3615ca008.png" /></a>
 
 ## 💻 Tech Stack:
