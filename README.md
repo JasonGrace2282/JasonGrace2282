@@ -21,7 +21,7 @@ When I'm not being average, I'm:
 
 ### Currently Learning
 * Rust
-* Vulkan
+* WebGPU/wgpu
 
 ### System Favorites
 * Distribution: Archlinux 😎
