@@ -5,11 +5,11 @@ I'm just your average guy ;)
 
 # About Me:
 When I'm not being average, I'm:
-- A physics enthusiast
-- @ManimCommunity Core Developer
-- @tjcsl Sysadmin
-- A guitarist
-- An athlete
+- A physics and computational physics enthusiast.
+- [ManimCommunity](https://github.com/ManimCommunity) Core Developer
+- [TJ Computer Systems Lab](https://github.com/tjcsl) Sysadmin
+- A classical guitarist.
+- A swimmer, runner, and biker.
 
 
 | <img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=700> |
