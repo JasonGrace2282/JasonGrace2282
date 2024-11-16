@@ -24,10 +24,11 @@ When I'm not being average, I'm:
 * WebGPU/wgpu
 
 ### System Favorites
-* Distribution: Archlinux 😎
-* Shell: zsh
-* Window Manager: hyprland
-* Editor: Neovim
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+I run a [highly customized](https://github.com/JasonGrace2282/dotfiles) Arch linux setup, with Hyprland as a Window Manager/Compositor.
+For my shell, I use zsh with the powerlevel10k prompt.
+For my editor, I use my [own Neovim configuration](https://github.com/JasonGrace2282/nvim).
 
 <details>
 <summary><h3>Stats</h3></summary>
