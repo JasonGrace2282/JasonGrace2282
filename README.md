@@ -11,9 +11,10 @@ When I'm not being average, I'm:
 - A guitarist
 - An athlete
 
-## Current Projects
-### [Rust Ray Tracer](https://github.com/JasonGrace2282/raytracing)
-<img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=700>
+
+| <img src="https://raw.githubusercontent.com/JasonGrace2282/raytracing/rust-1/image.png" width=700> |
+|:--:| 
+| Sample output of my [raytracer](https://github.com/JasonGrace2282/raytracing) |
 
 ### Favorite Languages
 * Python (4 years)
@@ -31,11 +32,29 @@ For my shell, I use zsh with the powerlevel10k prompt.
 For my editor, I use my [own Neovim configuration](https://github.com/JasonGrace2282/nvim).
 
 <details>
+  <summary><h3>Programming Experience</h3></summary>
+
+  The language I know the best is [python](https://www.python.org/). Some of my favorite projects in the python space include:
+  * [Manim](https://www.manim.community/), a mathematical animations library.
+  * [Ruff](https://docs.astral.sh/ruff/), an extremely fast linter and formatter.
+  * [ModernGL](https://github.com/moderngl/moderngl), high level OpenGL bindings for python.
+  * [FastAPI](https://fastapi.tiangolo.com/), a modern web framework powered by [Pydantic](https://docs.pydantic.dev/latest/) and [Starlette](https://www.starlette.io/).
+
+  I've written and am currently working on several python projects as well:
+  * [Manim](https://www.manim.community/), a mathematical animations library.
+  * [Turn-In](https://github.com/tjcsl/tin), a sandboxed code grader used at [TJ](https://tjhsst.fcps.edu/) for Computer Science classes.
+  * [Director4](https://github.com/tjcsl/director4), a website hosting platform.
+
+  I also am familiar with other languages, including:
+  * HTML/CSS/JS, which I've used in just about every web application I've worked on :)
+  * [Lua](https://www.lua.org/), the language my [neovim configuration](https://github.com/JasonGrace2282/nvim) is written in.
+  * [Rust](https://www.rust-lang.org/), the language I used to write my first [raytracer](https://github.com/JasonGrace2282/raytracing).
+  * [LaTeX](https://www.latex-project.org/), which I've used for [lots](https://drive.google.com/file/d/1QNJv2mKwmQYQ6kaFI5SXWtksQu7oKHD8/view?usp=sharing) [of](https://drive.google.com/file/d/1flVjpE1XRtyi3Hn9B3hsapQ-1mqvVRcL/view) [physics](https://drive.google.com/file/d/1hQKbUxiisGZurZ9sY36M03D0MmuKdTmv/view) stuff.
+</details>
+
+<details>
 <summary><h3>Stats</h3></summary>
 <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@JasonGrace2282/1620f0ab-45c7-45b3-88a9-44e3615ca008.png" /></a>
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ## 📊 GitHub Stats:
 <p align="left">
