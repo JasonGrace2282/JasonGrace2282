@@ -16,29 +16,17 @@ When I'm not being average, I'm:
 |:--:| 
 | Sample output of my [raytracer](https://github.com/JasonGrace2282/raytracing) |
 
-### Favorite Languages
-* Python (4 years)
-* LaTeX (1.5 years)
-
-### Currently Learning
-* Rust
-* WebGPU/wgpu
-
-### System Favorites
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-I run a [highly customized](https://github.com/JasonGrace2282/dotfiles) Arch linux setup, with Hyprland as a Window Manager/Compositor.
-For my shell, I use zsh with the powerlevel10k prompt.
-For my editor, I use my [own Neovim configuration](https://github.com/JasonGrace2282/nvim).
-
-<details>
+<details open>
   <summary><h3>Programming Experience</h3></summary>
 
-  The language I know the best is [python](https://www.python.org/). Some of my favorite projects in the python space include:
+  The language I know the best is [python](https://www.python.org/), which I've worked with for over four years.
+  Some of my favorite projects in the python space include:
   * [Manim](https://www.manim.community/), a mathematical animations library.
   * [Ruff](https://docs.astral.sh/ruff/), an extremely fast linter and formatter.
   * [ModernGL](https://github.com/moderngl/moderngl), high level OpenGL bindings for python.
   * [FastAPI](https://fastapi.tiangolo.com/), a modern web framework powered by [Pydantic](https://docs.pydantic.dev/latest/) and [Starlette](https://www.starlette.io/).
+  * [Django](https://www.djangoproject.com/), a web framework for perfectionists with deadlines.
+  * Too many others to list ([Sphinx](https://www.sphinx-doc.org/en/master/), [pre-commit](https://pre-commit.com/), [numpy](https://numpy.org/), [polars](https://pola.rs/) and many more!)
 
   I've written and am currently working on several python projects as well:
   * [Manim](https://www.manim.community/), a mathematical animations library.
@@ -51,6 +39,13 @@ For my editor, I use my [own Neovim configuration](https://github.com/JasonGrace
   * [Rust](https://www.rust-lang.org/), the language I used to write my first [raytracer](https://github.com/JasonGrace2282/raytracing).
   * [LaTeX](https://www.latex-project.org/), which I've used for [lots](https://drive.google.com/file/d/1QNJv2mKwmQYQ6kaFI5SXWtksQu7oKHD8/view?usp=sharing) [of](https://drive.google.com/file/d/1flVjpE1XRtyi3Hn9B3hsapQ-1mqvVRcL/view) [physics](https://drive.google.com/file/d/1hQKbUxiisGZurZ9sY36M03D0MmuKdTmv/view) stuff.
 </details>
+
+### System Favorites
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+I run a [highly customized](https://github.com/JasonGrace2282/dotfiles) Arch linux setup, with Hyprland as a Window Manager/Compositor.
+For my shell, I use zsh with the powerlevel10k prompt.
+For my editor, I use my [own Neovim configuration](https://github.com/JasonGrace2282/nvim).
 
 <details>
 <summary><h3>Stats</h3></summary>
