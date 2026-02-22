@@ -7,7 +7,7 @@ I'm just your average guy ;)
 When I'm not being average, I'm:
 - A physics and computational physics enthusiast.
 - [ManimCommunity](https://github.com/ManimCommunity) Core Developer
-- [TJ Computer Systems Lab](https://github.com/tjcsl) Sysadmin
+- [TJ Computer Systems Lab](https://github.com/tjcsl) Lead Sysadmin
 - A classical guitarist.
 - A swimmer, runner, and biker.
 
